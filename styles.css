@@ -1,0 +1,45 @@
+h1  {
+  border: solid;
+  color: aqua;
+  background-color: black;
+}
+.citypic {
+  width:400px;
+  height:400px;
+}
+h3 {
+  border: solid;
+  color: yellow;
+  background-color: black;
+}
+
+h4 {
+  border: solid;
+  color: orange;
+  background-color: black;
+}
+h1 {
+border: solid;
+color: white;
+background-color: green;
+}
+nav ul{
+  color: black;
+  background: white;
+}
+
+.citypic {
+  border: solid;
+  color: black;
+  height: 400px;
+  width: 400px;
+}
+.headings{
+color: blue;
+
+}
+
+.inlinenav{
+  display: inline-block;
+  margine: 50px;
+}
